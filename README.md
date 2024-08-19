@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI acceleration，OS，Distributed systems**
 
-- 📝 I regularly write articles on [todo：blog link](todo：blog link)
+- 📝 I regularly write articles on [blog](https://github.com/lucky6six/lucky6six.github.io)
 
 - 📫 How to reach me **lucky6six@qq.com**
 
