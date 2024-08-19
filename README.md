@@ -5,12 +5,11 @@
 
 - 🌱 I’m currently learning **AI acceleration，OS，Distributed systems**
 
-- 📝 I regularly write articles on [blog](https://github.com/lucky6six/lucky6six.github.io)
-
-- 📫 How to reach me **lucky6six@qq.com**
+- 📝 I regularly write articles on [blog](https://lucky6six.github.io）
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  📫 Email： lucky6six@qq.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
